@@ -1,0 +1,15 @@
+   Índice
+1. PrimeiroScript.sh
+2. Variaveis.sh
+3. EntradaDeDados.sh
+4. EntradaPorArgumento.sh
+5. ValidacaoDeDados.sh
+6. ExitCode.sh
+7. CondicionaisIF.sh
+8. TestaArgumentos.sh
+9. CondicionaisCASE.sh
+10.LoopFOR.sh
+11.FOR_e_IFS.sh
+12.LoopWHILE.sh
+13.LoopUNTIL.sh
+14.GerandoLogs.sh
