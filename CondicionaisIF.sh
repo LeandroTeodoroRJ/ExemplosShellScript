@@ -98,6 +98,12 @@ then
 	echo Sucesso
 fi
 
+if [ "$1" = "extract" ]      #Compara uma string com a variável
+then
+	tar xzfv $2         
+	exit 0
+fi
+
 #Exemplo com comando
 USR="Joao"
 if grep $USR /etc/passwd > /dev/null #Joga o resultado do comando no blackhole
